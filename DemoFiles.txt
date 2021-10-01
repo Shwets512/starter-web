@@ -1,0 +1,6 @@
+This is first text.
+Oranges are orange in color.
+Sky is blue.
+One more line to add to see the changes.
+Stars are not visible because sky is cloudy.
+Roses are Red, Violets are blue:
